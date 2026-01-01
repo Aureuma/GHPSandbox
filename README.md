@@ -11,7 +11,7 @@ Dyad Launchpad is a shippable product starter kit for Silexa teams.
 - Release notes templates.
 
 ## Get the kit
-Releases are published in the GitHub Releases section.
+Purchase via GitHub Sponsors, then download from GitHub Releases.
 
 ## Development
 This is a static site. Open `index.html` or deploy via GitHub Pages.
